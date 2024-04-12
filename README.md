@@ -1,4 +1,4 @@
-# SD12_Capstone: Comparative Analysis of Language Models for Game Script Generation
+# SD12 Capstone: Comparative Analysis of Language Models for Game Script Generation
 Explore the capabilities of leading LLMs in generating game scripts using Pygame. 
 
 ## Project Overview
