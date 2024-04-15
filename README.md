@@ -8,14 +8,16 @@ This project aims to perform a comparative analysis of various large language mo
 ## Language Models Used
 
 - GPT-3.5 by OpenAI
-- Claude by Anthropic
-- Mistral by Google
+- Claude Haiku by Anthropic
+- Gemma 1.1 by Google
 
 ## Getting Started
 
 ### Prerequisites
 
-- Access to the APIs for GPT-3.5, Claude, and Mistral.
+- Create account with OpenAI for GPT 3.5.
+- Create account with Anthropic for Claude Haiku.
+- Create account with HuggingFace and request free access for Gemma 1.1.
 - Python 3.11 or higher.
 - Visual Studio Code or any preferred IDE for Python development.
 - Google Sheets for tracking and comparing data.
