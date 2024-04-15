@@ -23,17 +23,23 @@ This project aims to perform a comparative analysis of various large language mo
 ### Setup
 
 1. **Clone the Repository:**
-- git clone https://github.com/defford/SD12_Capstone.git
-- cd SD12_Capstone
+```
+git clone https://github.com/defford/SD12_Capstone.git
+cd SD12_Capstone
+```
  
 2. **Environment Setup:**
 Ensure you have Python installed, and then set up a virtual environment:
-- python -m venv venv
-- source venv/bin/activate # On Windows use venv\Scripts\activate
+```
+python -m venv venv
+source venv/bin/activate # On Windows use venv\Scripts\activate
+```
 
 3. **Install Dependencies:**
 Install the required Python packages:
-- pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
 
 
 
@@ -47,7 +53,9 @@ Install the required Python packages:
 ## Running the Tests
 
 To run the initial script generation:
+```
 - python scripts/generate_script.py
+```
 
 ## Analysis
 
