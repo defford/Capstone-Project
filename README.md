@@ -50,10 +50,28 @@ pip install -r requirements.txt
 - `/data` - Excel files documenting the comparison metrics.
 - `/docs` - Additional documentation and analysis reports.
 
+## Prompts
 
-## Analysis
+Each prompt was selected for minimal detail, but focused on the main intention of this project which is to generate code that is feature-full as well as executable. The inclusion of "Write only the code" is aimed to accomodate max output lengths in order to maximize code output.
 
-Detailed analysis of each model's performance can be found in the `/docs` directory. This includes metrics on accuracy, error rate, and feature completeness.
+### Base Prompt
+
+`"write a snake game using pygame. Write only the code."`
+- This prompts aims to be minimal and provides a use case for measuring the effects of single keywords.
+
+### Feature Prompt
+
+`"write a snake game using pygame that has a lot of features. Write only the code."`
+- The addition of 'a lot' aims to prioritize an increase in the quantity of features (rather than focusing on quality of features, which could be considered in future analysis)
+
+### Executable Prompt
+
+`"write a snake game using pygame that contains no bugs in the script. Write only the code."`
+- The addition of 'no bugs' aims to prioritize executable code, but bugs can be found in many places outside of the script (proper dependenies, environments, etc) and could cause the AI to make special considerations outside of simply generating code, so thats why 'in the script' is added to avoid these circumstances.
+
+## Results Report & Analysis
+
+Detailed analysis of each model's performance can be found in the `/docs` directory. This includes a runthrough of the code, bug documentation, and metrics on accuracy, bugs, and feature completeness.
 
 ## License
 
