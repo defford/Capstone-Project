@@ -1,4 +1,4 @@
-`# Analysis Metrics for GPT-3.5 (Base Prompt)`
+# Analysis Metrics for GPT-3.5 (Base Prompt)
 
 # Summary
 This code ran shockingly well. The aesthetics were average, but the script executed without any issues. The only thing to be worked on is the game over screen.

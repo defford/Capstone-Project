@@ -17,7 +17,7 @@ red = (255, 0, 0)
 block_size = 20
 
 # Set game speed
-speed = 45
+speed = 15
 
 # Set font for displaying messages
 font_style = pygame.font.SysFont(None, 50)

@@ -25,7 +25,7 @@ class Snake:
     def __init__(self):
         self.body = [(GRID_WIDTH // 2, GRID_HEIGHT // 2)]
         self.direction = (1, 0)
-        self.grow = False
+        self.grow = True
     
     def move(self):
         if not self.grow:
