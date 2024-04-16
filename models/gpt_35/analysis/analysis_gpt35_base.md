@@ -38,7 +38,6 @@ Feature Completeness measures the extent to which the generated scripts incorpor
 21. Control game frame rate using the clock
 22. Close Pygame and quit the program
 
-- **Implemented Features:** Mark which of the listed features are correctly implemented in the script.
 - **Scoring:** 21/22
 
 ## 3. Bug Frequency

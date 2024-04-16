@@ -42,7 +42,6 @@ Feature Completeness measures the extent to which the generated scripts incorpor
 25. Snake speed adjustment
 26. pygame quit
 
-- **Implemented Features:** Mark which of the listed features are correctly implemented in the script.
 - **Scoring:** 26/26
 
 ## 3. Bug Frequency

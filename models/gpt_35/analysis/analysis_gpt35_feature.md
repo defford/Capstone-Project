@@ -36,7 +36,6 @@ Feature Completeness measures the extent to which the generated scripts incorpor
 19. Screen refresh and frame rate control
 20. Check for running the game script directly
 
-- **Implemented Features:** Mark which of the listed features are correctly implemented in the script.
 - **Scoring:** 19/20
 
 ## 3. Bug Frequency
