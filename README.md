@@ -3,7 +3,11 @@ Explore the capabilities of leading LLMs in generating game scripts using Pygame
 
 ## Project Overview
 
-This project aims to perform a comparative analysis of various large language models (LLMs) to determine which one performs best for generating game scripts in Python. The focus is on assessing the models based on accuracy to prompt, bug frequency, and completeness of the generated scripts.
+This project aims to perform a comparative analysis of various large language models (LLMs) to determine which one performs best for generating game scripts in Python. The focus is on assessing the models based on accuracy to prompt, bug frequency, and completeness of the generated scripts. 
+
+Read `Product Structure` for a review on how this project is organized so you can find everything easily.
+
+Also, a base script written in GPT-4 is also under `/models` just for fun. Spoiler and shocker, it performed better than everything else.
 
 ## Language Models Used
 
