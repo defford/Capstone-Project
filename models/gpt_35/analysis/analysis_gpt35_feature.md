@@ -1,7 +1,7 @@
 # Analysis Metrics for GPT-3.5 (Feature Prompt)
 
 # Summary
-This code ran into some fatal issues when executing on the first run. Although, once the bug was fixed, it seemed to run quite well. Surprisingly, even when prompted for more features, it failed to provide some features which were included in the base prompt, such as keeping score, and an option to replay the game once it was over.
+This code ran into some fatal issues when executing on the first run. Although, once the bug was fixed, it seemed to run quite well. Surprisingly, even when prompted for more features, it failed to provide features included in the base prompt, such as keeping score, and an option to replay the game once it was over.
 
 ## 1. Accuracy
 
